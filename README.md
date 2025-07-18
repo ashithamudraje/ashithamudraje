@@ -27,4 +27,3 @@ I like building things that are useful, even if experimental. Some recent ones:
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ashitha-mudraje/)
 - [Email](ashithabhat52@gmail.com)
-- [Portfolio/Website](https://www.researchgate.net/profile/Ashitha-Mudraje?ev=hdr_xprf)
