@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Ashitha
+## 👋 Hey, I'm Ashitha Mudraje
 
 I'm a Machine Learning Engineer with a strong focus on computer vision, NLP, and multimodal AI. I build ML tools, models, and APIs that actually solve real-world problems — not just toy datasets.
 
